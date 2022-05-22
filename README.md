@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning C#
 
-📫 How to reach me via email: arthurwork25@gmail.com
+📫 How to reach me: arthurwork25@gmail.com
