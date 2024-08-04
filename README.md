@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning python, with the goal of being able to create useful applications or contribute to the projects I find interesting.
+- 🌱 I’m currently learning python, to be able to work and/or contribute to the projects that interest me
 - 📫 Reach me at: https://www.linkedin.com/in/artur-chalyi-013b2a196/
 
 <!--
